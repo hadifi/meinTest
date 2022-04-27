@@ -157,7 +157,7 @@ SQLAlchemy==1.4.1
 sqlparse==0.4.2
 stack-data==0.2.0
 stocknews==0.9.11
-TA-Lib @ file:///C:/ta-lib/TA_Lib-0.4.20-cp38-cp38-win_amd64.whl
+TA-Lib==0.4.20
 tableschema==1.20.2
 tabulator==1.53.4
 Telethon==1.24.0
