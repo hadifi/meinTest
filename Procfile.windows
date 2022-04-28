@@ -1,1 +1,1 @@
-web: python test:app --log-file -
+worker: python test.py
